@@ -1,5 +1,5 @@
 # gmail-leak-test-python
-Little that i made to test big gmail leak wordlist with SMTP
+Little tool that i made to test big gmail leak wordlist with SMTP
 
 You can find gmail.txt at this web address: http://demon.pw/public/gmail.txt
 
