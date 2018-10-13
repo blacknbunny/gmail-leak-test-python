@@ -15,4 +15,6 @@ Change youremailaddr@gmail.com with your email address to take real email addr &
 And i wrote this tool to check if its fake or real and the answer is FAKE.
 
 
-![](http://prntscr.com/l5kxss)
+### Accounts that wants verification to continue login
+
+![](https://i.imgur.com/dxxjopA.png)
