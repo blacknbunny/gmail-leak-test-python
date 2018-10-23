@@ -8,7 +8,7 @@ Change youremailaddr@gmail.com with your email address to take real email addr &
   s.sendmail(email, "youremailaddr@gmail.com", message)
 
 
-## This is Gmail leak published by FKNDEMON in twitter :
+## This FAKE Gmail leak published by FKNDEMON in twitter :
     
     https://twitter.com/FknDemon/status/1050955846560178177
     
