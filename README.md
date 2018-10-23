@@ -3,7 +3,7 @@ Little tool that i made to test big gmail leak wordlist with SMTP
 
 You can find gmail.txt at this web address: http://demon.pw/public/gmail.txt
 
-Change youremailaddr@gmail.com with your email address to take real email addr & passwords. Because sometimes tool that i made printing the emails that wants verification. After you change just the real ones gonna come to your in your gmail "SPAM" Box.
+Change youremailaddr@gmail.com with your email address to take real email addr & passwords. Because sometimes tool that i made printing the emails that wants verification. After you the change just the real ones will come to your gmail "SPAM" Box.
 
   s.sendmail(email, "youremailaddr@gmail.com", message)
 
